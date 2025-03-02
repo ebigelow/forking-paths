@@ -1,6 +1,8 @@
 
 
-### Code for *Forking Paths in Neural Text Generation*.
+### Code for *Forking Paths in Neural Text Generation*
+
+https://arxiv.org/abs/2412.07961
 
 
 More documentation will be added here soon.
